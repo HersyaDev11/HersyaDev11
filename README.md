@@ -1,6 +1,6 @@
 I'm Hersya Yudina
 
-I'am a Software Engineer. I'am also an open source enthusiast. I love to contribute and sharing knowledge through open source project. Im so happy if what I do can be useful for others in the future.
+I'am a Front-End Developer. I'am also an open source enthusiast. I love to contribute and sharing knowledge through open source project. Im so happy if what I do can be useful for others in the future.
 
 I currently work as Software Engineer at Kuningan, and you can find me on .
 
