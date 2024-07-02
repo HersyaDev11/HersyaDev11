@@ -2,7 +2,18 @@ I'm Hersya Yudina
 
 I'am a Front-End Developer. I'am also an open source enthusiast. I love to contribute and sharing knowledge through open source project. Im so happy if what I do can be useful for others in the future.
 
-I currently work as Software Engineer at Kuningan, and you can find me on .
+<p align="left">
+    <a href="https://www.instagram.com/hersyay_">
+        <img alt="Instagram" title="Follow my instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    </a>
+    <a href="https://www.tiktok.com/hersyayudina11">
+        <img alt="Tiktok" title="Follow my tiktok" src="https://img.shields.io/badge/-Tiktok-%231DA1F2?style=for-the-badge&logo=TikTOK&logoColor=black">
+    </a>
+    <a href="https://www.linkedin.com/in/zhaasyft/">
+        <img alt="Instagram" title="Follow my instagram" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+    </a>
+</p>
+
 
 Student University kuningan :
 
