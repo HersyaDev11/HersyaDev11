@@ -10,7 +10,7 @@ I'am a Front-End Developer. I'am also an open source enthusiast. I love to contr
         <img alt="Tiktok" title="Follow my tiktok" src="https://img.shields.io/badge/-Tiktok-%231DA1F2?style=for-the-badge&logo=TikTOK&logoColor=black">
     </a>
     <a href="https://www.linkedin.com/in/zhaasyft/">
-        <img alt="Instagram" title="Follow my instagram" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
+        <img alt="LinkedIn" title="Follow my linkedin" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
 </p>
 
