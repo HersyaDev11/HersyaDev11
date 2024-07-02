@@ -11,18 +11,22 @@ Student University kuningan :
 
 
 
-Languages And Tools
+ ### Languages And Tools
 
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/89d5bbff-2103-4ec0-85ac-fa550263dab6)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/1204583a-94de-400c-8785-05f39af7cbc5)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/cc7b48fa-f947-40a0-af70-98d0d1a9bac1)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/804e3d46-2563-4a2e-a766-2e3d457ed6cb)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/6a5a503a-b905-496e-a6e5-ccaaadedfceb)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/c0d4e61c-11eb-40b0-a872-05d6fb5deb53)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/0cdd0005-f0fe-43d5-8917-e15b66a703a0)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/68ef486d-fa4e-4354-a12f-93ef5ac53a1d)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/105443e0-6597-49db-8200-a2cf9972438d)
-![image](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/41894f70-7ee0-4169-9fa4-d757bb4f089a)
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"/>
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
 
 
 
