@@ -21,7 +21,7 @@ I'am a Front-End Developer. I'am also an open source enthusiast. I love to contr
 ### Student University kuningan :
 
 
-![WhatsApp Image 2024-06-04 at 21 47 20_e6f9da65](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/0b336135-185e-4e89-9756-984ed6cf790c)
+!widht:200px[WhatsApp Image 2024-06-04 at 21 47 20_e6f9da65](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/0b336135-185e-4e89-9756-984ed6cf790c)
 
 
 
