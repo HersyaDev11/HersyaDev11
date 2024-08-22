@@ -12,9 +12,6 @@ I'am a Front-End Developer. I'am also an open source enthusiast. I love to contr
     <a href="https://www.linkedin.com/in/hersya-yudina-77786229a/">
         <img alt="LinkedIn" title="Follow my linkedin" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
-    <a href="https://hersyadev11.github.io/hersya-portofolio/">
-        <img alt="Portofolio" title="my portfolio" src="https://img.shields.io/badge/-Portfolio-%230A66C2?style=for-the-badge&logo=Portfolio&logoColor=white">
-    </a>
 </p>
 
 
