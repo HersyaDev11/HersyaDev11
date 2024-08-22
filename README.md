@@ -18,7 +18,6 @@ I'am a Front-End Developer. I'am also an open source enthusiast. I love to contr
 </p>
 
 
-### Student University kuningan :
 
 
  ### Languages And Tools
