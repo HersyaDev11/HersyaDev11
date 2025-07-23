@@ -1,4 +1,8 @@
-<p align="left">Hi there! i'm Yosep Firano La Ngari, a dynamic and dedicated Computer Science student with a passion for continual learning. Proficient in web development and adept at navigating the complexities of cloud computing, particularly with the Google Cloud Platform. Certified as an Associate Cloud Engineer on Google Cloud and Alibaba Cloud. Known for quickly mastering new concepts and technologies. Experienced in PHP and Node.JS, with a strong foundation in web development principles, Machine Learning, & Deep Learning.</p>
+<p align="left">I’m Hersya Yudina, a passionate and adaptive Fullstack Developer with a strong Computer Science background and a relentless drive for building impactful digital solutions. I specialize in crafting seamless web applications from frontend to backend using modern technologies like React, Vue.js, Node.js, and Laravel.
+
+My development workflow is strengthened by cloud experience, particularly with Google Cloud Platform and Alibaba Cloud, and I hold certifications as an Associate Cloud Engineer. I'm quick to learn new stacks, frameworks, and methodologies, which empowers me to deliver scalable and robust applications.
+
+With solid experience in both relational and NoSQL databases, RESTful APIs, and CI/CD pipelines, I bring efficiency and innovation into every project. Beyond coding, I value clean architecture, performance optimization, and collaborative development.</p>
 
 ###
 
@@ -69,9 +73,9 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.hersya11.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.HCodeXGame.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.Hersyay_.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
